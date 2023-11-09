@@ -1,0 +1,4 @@
+Compilers
+https://www.geeksforgeeks.org/compiler-design-gate-questions/
+https://gateoverflow.in/questions/compiler-design?sort=gate
+https://practicepaper.in/gate-cse/lexical-analysis?_ga=2.139723635.1143526010.1698417300-846921138.1698417300&_gl=1*1rnkris*_ga*ODQ2OTIxMTM4LjE2OTg0MTczMDA.*_ga_K1YZ57RFLP*MTY5ODQxNzI5OS4xLjEuMTY5ODQxNzMxNC4wLjAuMA..*_ga_N3BGKY01E3*MTY5ODQxNzI5OS4xLjEuMTY5ODQxNzMxMi4wLjAuMA
